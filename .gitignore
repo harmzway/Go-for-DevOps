@@ -1,2 +1,7 @@
 .idea
-venv
+.gitconfig 
+._*
+.DS_Store
+*.tfstate*
+*.tfvars*
+
